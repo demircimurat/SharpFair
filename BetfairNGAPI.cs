@@ -128,7 +128,7 @@ namespace SharpFair.API
 		public const string SportsUrl = "https://api.betfair.com/exchange/betting/json-rpc/v1";
 		public const string AccountsUrl = "https://api.betfair.com/exchange/account/json-rpc/v1";
 		public const string LoginUrl = "https://identitysso.betfair.com/api/certlogin";
-		public static string AppKey = "nnb0ixOgHpD30WuM";
+		public static string AppKey = "YOUR_API_KEY";
 		public string EndPoint { get; private set; }
 
 		public const string APPKEY_HEADER = "X-Application";
